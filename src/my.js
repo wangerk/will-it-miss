@@ -1,4 +1,4 @@
 import $ from 'jquery';
 setTimeout(() => {
-    alert($);
-}, 3);
+    alert($('#app'));
+}, 3000);
