@@ -13,6 +13,7 @@
   "dependencies": {
     "date-fns": "^2.11.1",
     "format-number": "^3.0.0",
+    "jquery": "^3.6.4",
     "react": ">=16.8",
     "react-async-hook": "^3.6.1",
     "react-dom": "^16.13.1"
